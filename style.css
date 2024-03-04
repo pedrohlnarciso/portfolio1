@@ -75,3 +75,16 @@ span {
 #projetos {
     text-align: center;
 }
+
+#imagem {
+    width: 500px;
+}
+
+#text {
+    text-decoration: none;
+    color: white;
+}
+
+#title {
+    text-align: left;
+}
