@@ -93,6 +93,6 @@ span {
     color: blue;
 }
 
-#whats:hover {
-    text-decoration: outline;
+#whats {
+    padding-top: 4px;
 }
