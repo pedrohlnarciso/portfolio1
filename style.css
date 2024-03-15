@@ -92,3 +92,7 @@ span {
 .azul {
     color: blue;
 }
+
+#whats:hover {
+    text-decoration: outline;
+}
