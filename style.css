@@ -96,3 +96,11 @@ span {
 #whats {
     padding-top: 4px;
 }
+
+a:hover {
+    text-decoration: underline;
+}
+
+#imagens, #title{
+    text-align: center;
+}
